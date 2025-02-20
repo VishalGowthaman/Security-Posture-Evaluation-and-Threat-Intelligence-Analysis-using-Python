@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef7591ba-da6f-4e69-95d8-624e6f26cf74)# Security-Posture-Evaluation-and-Threat-Intelligence-Analysis-using-Python
+Security-Posture-Evaluation-and-Threat-Intelligence-Analysis-using-Python
 
 ### Title of the Project
 This project aims to address challenges by developing a comprehensive solution for detecting and analyzing suspicious files and processes on computer systems.
